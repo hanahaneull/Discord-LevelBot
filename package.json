@@ -1,0 +1,15 @@
+{
+  "name": "Discord-LevelBot",
+  "version": "1.0.0",
+  "description": "Standalone Discord profile level up bot for various bot",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hanahaneull",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "chalk": "^4.1.0"
+  }
+}

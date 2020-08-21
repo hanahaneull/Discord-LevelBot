@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6178c5ff-b632-498a-a7d0-64e30559209f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1g3bcgGQmnPu4drSW3Jznip0XzC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../WebStrom" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6178c5ff-b632-498a-a7d0-64e30559209f" name="Default Changelist" comment="" />
+      <created>1597346304160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597346304160</updated>
+      <workItem from="1597346305441" duration="2086000" />
+      <workItem from="1597510251004" duration="5199000" />
+      <workItem from="1597596750970" duration="1153000" />
+      <workItem from="1597598615226" duration="597000" />
+      <workItem from="1597840209453" duration="689000" />
+      <workItem from="1597971522697" duration="81000" />
+      <workItem from="1597971791794" duration="4334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="467" y="106" key="FileChooserDialogImpl" timestamp="1597976012736">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="467" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597976012736" />
+    <state x="538" y="265" key="Github.ShareDialog" timestamp="1597976125341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="538" y="265" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1597976125341" />
+    <state x="267" y="109" width="832" height="527" key="IDE.errors.dialog" timestamp="1597359161758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="267" y="109" width="832" height="527" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1597359161758" />
+    <state x="187" y="0" key="SettingsEditor" timestamp="1597971957676">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="187" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597971957676" />
+    <state x="343" y="158" key="run.anything.popup" timestamp="1597976086955">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="343" y="158" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1597976086955" />
+  </component>
+</project>
