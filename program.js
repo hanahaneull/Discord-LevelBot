@@ -80,7 +80,7 @@ client.on("ready", () => {
         channelS.send(texttospam)
         spammed++
         console.log(`Dab! just spammed ${spammed} messages`)
-    }, 62000)
+    }, 120000)
 })
 
 client.on("reconnecting", () => {
